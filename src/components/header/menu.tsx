@@ -82,7 +82,7 @@ export function Menu() {
               </li>
               <li className="flex gap-2 items-center">
                 <a
-                  href="https://github.com/ourongxing/newsnow"
+                  href="https://github.com/jeffreyrobeson/todaynews"
                 >
                   <img
                     alt="GitHub forks badge"
