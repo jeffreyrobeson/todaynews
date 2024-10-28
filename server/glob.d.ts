@@ -20,7 +20,7 @@ declare module 'glob:./sources/{*.ts,**/index.ts}' {
   export const solidot: typeof import('./sources/solidot')
   export const sputniknewscn: typeof import('./sources/sputniknewscn')
   export const thepaper: typeof import('./sources/thepaper')
-  /*export const tieba: typeof import('./sources/tieba') */
+  export const tieba: typeof import('./sources/tieba') 
   export const toutiao: typeof import('./sources/toutiao')
   export const v2ex: typeof import('./sources/v2ex')
   export const wallstreetcn: typeof import('./sources/wallstreetcn')
