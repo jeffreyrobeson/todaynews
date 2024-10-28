@@ -13,7 +13,7 @@ export function Column({ id }: { id: ColumnID }) {
     setCurrentColumnID(id)
   }, [id, setCurrentColumnID])
 
-  useTitle(`NewsNow | ${metadata[id].name}`)
+  useTitle(`TodayNews | ${metadata[id].name}`)
   return (
     <>
       <div className="flex justify-center md:hidden mb-6">
