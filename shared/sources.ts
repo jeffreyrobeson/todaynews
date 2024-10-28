@@ -102,6 +102,14 @@ export const originSources = {
     disable: true,
     home: "https://hupu.com",
   },
+   "tieba": {
+    name: "百度贴吧",
+    title: "热议",
+    column: "china",
+    type: "hottest",
+    color: "blue",
+    home: "https://tieba.baidu.com",
+  }, 
   "ithome": {
     name: "IT之家",
     color: "red",
