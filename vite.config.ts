@@ -19,8 +19,8 @@ dotenv.config({
 const pwaOption: Partial<VitePWAOptions> = {
   includeAssets: ["icon.svg", "apple-touch-icon.png"],
   manifest: {
-    name: "NewsNow",
-    short_name: "NewsNow",
+    name: "TodayNews",
+    short_name: "TodayNews",
     description: "Elegant reading of real-time and hottest news",
     theme_color: "#F14D42",
     icons: [
