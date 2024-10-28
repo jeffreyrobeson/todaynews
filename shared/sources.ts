@@ -23,12 +23,12 @@ export const originSources = {
       },
     },
   },
-  "zhihu": {
-    name: "知乎",
+  "toutiao": {
+    name: "今日头条",
     type: "hottest",
     column: "china",
-    color: "blue",
-    home: "https://www.zhihu.com",
+    color: "red",
+    home: "https://www.toutiao.com",
   },
   "weibo": {
     name: "微博",
@@ -47,13 +47,13 @@ export const originSources = {
     color: "red",
     home: "https://www.zaobao.com",
   },
-  "coolapk": {
-    name: "酷安",
+  "zhihu": {
+    name: "知乎",
     type: "hottest",
-    column: "tech",
-    color: "green",
+    column: "china",
+    color: "blue",
     title: "今日最热",
-    home: "https://coolapk.com",
+    home: "https://www.zhihu.com",
   },
   "wallstreetcn": {
     name: "华尔街见闻",
