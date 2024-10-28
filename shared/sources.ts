@@ -110,13 +110,6 @@ export const originSources = {
     color: "blue",
     home: "https://tieba.baidu.com",
   },
-  "toutiao": {
-    name: "今日头条",
-    type: "hottest",
-    column: "china",
-    color: "red",
-    home: "https://www.toutiao.com",
-  },
   "ithome": {
     name: "IT之家",
     color: "red",
